@@ -13,4 +13,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0316-remove-duplicate-letters) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0316-remove-duplicate-letters) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
