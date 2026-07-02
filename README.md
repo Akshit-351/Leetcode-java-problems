@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0037-sudoku-solver) |
+| [0896-monotonic-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0896-monotonic-array) |
 ## Hash Table
 |  |
 | ------- |
