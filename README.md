@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0896-monotonic-array) |
 ## Hash Table
 |  |
@@ -68,4 +69,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
