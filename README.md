@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0896-monotonic-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2187-minimum-time-to-complete-trips) |
 ## Hash Table
 |  |
@@ -106,4 +107,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0645-set-mismatch) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
