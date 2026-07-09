@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0162-find-peak-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0496-next-greater-element-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0162-find-peak-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0704-binary-search) |
