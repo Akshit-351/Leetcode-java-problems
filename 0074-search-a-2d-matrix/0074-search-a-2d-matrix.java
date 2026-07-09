@@ -1,17 +1,21 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int key) {
-        int row = 0, col = matrix[0].length-1;
-        while (row< matrix.length&&col>=0){
+        int rows = matrix.length;
+        int cols = matrix[0].length;
+        int low = 0;
+        int high = rows*cols -1;
+        while(low <= high){
+            int mid = low + (high - low)/2;
+            int row = mid / cols;
+            int col = mid % cols;
             if(matrix[row][col] == key){
-                System.out.println("Key found at (" + row + "," + col + ")");
                 return true;
-            } else if (key<matrix[row][col]) {
-                col--;
-            }else {
-                row++;
+            }else if(matrix[row][col] < key){
+                low = mid +1;
+            }else{
+                high = mid-1;
             }
         }
-        System.out.println("key not found!");
         return false;
     }
 }
