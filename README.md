@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0035-search-insert-position) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
