@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0896-monotonic-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0645-set-mismatch) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Dynamic Programming
 |  |
