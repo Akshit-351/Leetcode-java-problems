@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0316-remove-duplicate-letters) |
@@ -219,4 +220,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0584-find-customer-referee) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
