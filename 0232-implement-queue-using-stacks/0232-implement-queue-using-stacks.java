@@ -16,8 +16,8 @@ class MyQueue {
            Output.push(Input.pop());
     }
 }
-       int y =  Output.pop();
-       return y;
+       int pop =  Output.pop();
+       return pop;
     }
     
     public int peek() {
