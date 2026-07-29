@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0933-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0933-number-of-recent-calls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0933-number-of-recent-calls) |
 ## Breadth-First Search
 |  |
 | ------- |
