@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0394-decode-string) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Stack
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0645-set-mismatch) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Dynamic Programming
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0933-number-of-recent-calls) |
