@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0172-factorial-trailing-zeroes) |
+| [0877-stone-game](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0877-stone-game) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Recursion
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0896-monotonic-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0410-split-array-largest-sum) |
+| [0877-stone-game](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0877-stone-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -328,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0239-sliding-window-maximum) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
