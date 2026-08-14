@@ -15,8 +15,8 @@ class Solution {
         int ans[] = new int[set2.size()];
         int i = 0; 
         for(int x : set2){
-            ans[i] = x;
-            i++;
+            ans[i++] = x;
+            //i++;
         }
         return ans;
     }
