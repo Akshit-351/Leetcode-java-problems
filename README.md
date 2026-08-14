@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0239-sliding-window-maximum) |
+| [0349-intersection-of-two-arrays](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0496-next-greater-element-i) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0645-set-mismatch) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0645-set-mismatch](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Database
 |  |
