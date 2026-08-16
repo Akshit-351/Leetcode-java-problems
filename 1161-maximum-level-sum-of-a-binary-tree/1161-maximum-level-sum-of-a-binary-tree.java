@@ -5,7 +5,7 @@ class Solution {
         }
         Queue<TreeNode> q = new ArrayDeque<>();
         q.offer(root);
-       int ans = 1;
+       int ans = 0;
        int maxSum = Integer.MIN_VALUE;
         int level = 1;
         while(!q.isEmpty()){
