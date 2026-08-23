@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0641-design-circular-deque) |
 | [0645-set-mismatch](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0704-binary-search) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0875-koko-eating-bananas](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0896-monotonic-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0645-set-mismatch](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Design
