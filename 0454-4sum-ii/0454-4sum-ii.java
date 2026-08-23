@@ -15,7 +15,7 @@ class Solution {
             for(int j = 0; j<n; j++){
                 int sum = nums3[i] + nums4[j];
                 if(map.containsKey(-(sum))){
-                    count += map.getOrDefault(-sum , 0);
+                    count += map.get(-sum);
                 }
             }
         }
