@@ -3,17 +3,17 @@ class Solution {
         int n = nums1.length;
         HashMap<Integer , Integer> map = new HashMap<>();
        // first pair
-        for(int i = 0; i<n; i++){
-            for(int j = 0; j<n; j++){
-          int sum = nums1[i] + nums2[j];
+        for(int a : nums1){
+            for(int b : nums2){
+          int sum = a + b;
           map.put(sum , map.getOrDefault(sum , 0) + 1);
             }
         }
         //second pair
         int count = 0;
-        for(int i = 0; i<n; i++){
-            for(int j = 0; j<n; j++){
-                int sum = nums3[i] + nums4[j];
+        for(int a : nums3){
+            for(int b : nums4){
+                int sum = a + b;
                 if(map.containsKey(-(sum))){
                     count += map.get(-sum);
                 }
