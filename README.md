@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0316-remove-duplicate-letters) |
+| [0334-increasing-triplet-subsequence](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0410-split-array-largest-sum) |
 ## Monotonic Stack
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0239-sliding-window-maximum) |
+| [0334-increasing-triplet-subsequence](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -427,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
