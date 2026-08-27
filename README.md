@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1672-richest-customer-wealth](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1672-richest-customer-wealth) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2187-minimum-time-to-complete-trips) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
