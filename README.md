@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0645-set-mismatch) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Database
 |  |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -410,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
@@ -419,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Sliding Window
