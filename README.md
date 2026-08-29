@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0394-decode-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Stack
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2351-first-letter-to-appear-twice](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Backtracking
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Dynamic Programming
 |  |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0645-set-mismatch) |
+| [2351-first-letter-to-appear-twice](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
