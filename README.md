@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0896-monotonic-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1046-last-stone-weight) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1480-running-sum-of-1d-array) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1046-last-stone-weight](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Data Stream
 |  |
