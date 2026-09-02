@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0877-stone-game) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0347-top-k-frequent-elements) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -498,4 +501,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0220-contains-duplicate-iii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
