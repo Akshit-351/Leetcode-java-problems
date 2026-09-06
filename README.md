@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0554-brick-wall](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0641-design-circular-deque) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0525-contiguous-array) |
+| [0554-brick-wall](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
