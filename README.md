@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0202-happy-number) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0029-divide-two-integers) |
 | [0645-set-mismatch](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
