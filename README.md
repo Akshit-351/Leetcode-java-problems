@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0394-decode-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0434-number-of-segments-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Stack
