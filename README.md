@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0434-number-of-segments-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2351-first-letter-to-appear-twice) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0389-find-the-difference) |
 | [0454-4sum-ii](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0523-continuous-subarray-sum) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0029-divide-two-integers) |
+| [0389-find-the-difference](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0973-k-closest-points-to-origin) |
