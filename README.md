@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0506-relative-ranks](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0973-k-closest-points-to-origin) |
