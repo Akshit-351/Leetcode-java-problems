@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0621-task-scheduler) |
+| [0881-boats-to-save-people](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0881-boats-to-save-people) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0875-koko-eating-bananas](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0896-monotonic-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0881-boats-to-save-people](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
 |  |
@@ -568,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0973-k-closest-points-to-origin) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
