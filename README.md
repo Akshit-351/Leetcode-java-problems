@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0094-binary-tree-inorder-traversal) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0316-remove-duplicate-letters) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0074-search-a-2d-matrix) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0085-maximal-rectangle) |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0142-linked-list-cycle-ii) |
