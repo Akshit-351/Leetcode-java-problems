@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0434-number-of-segments-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2351-first-letter-to-appear-twice) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0392-is-subsequence](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0877-stone-game) |
 ## Prefix Sum
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0881-boats-to-save-people) |
