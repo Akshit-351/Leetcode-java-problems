@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0641-design-circular-deque) |
+| [0643-maximum-average-subarray-i](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0704-binary-search) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0643-maximum-average-subarray-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Monotonic Queue
 |  |
