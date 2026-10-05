@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0434-number-of-segments-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0678-valid-parenthesis-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2716-minimize-string-length](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2716-minimize-string-length) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0901-online-stock-span) |
 ## Greedy
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0881-boats-to-save-people) |
 ## Monotonic Stack
 |  |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0877-stone-game) |
 ## Prefix Sum
 |  |
@@ -589,4 +593,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0881-boats-to-save-people) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
