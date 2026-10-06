@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0973-k-closest-points-to-origin) |
+| [2396-strictly-palindromic-number](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2396-strictly-palindromic-number) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3870-count-commas-in-range](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/3871-count-commas-in-range-ii) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [2396-strictly-palindromic-number](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2396-strictly-palindromic-number) |
 ## Database
 |  |
 | ------- |
@@ -597,4 +599,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0678-valid-parenthesis-string) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
