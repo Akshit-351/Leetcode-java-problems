@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0202-happy-number) |
+| [0507-perfect-number](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0973-k-closest-points-to-origin) |
