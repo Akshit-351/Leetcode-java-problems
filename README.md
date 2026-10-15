@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/Akshit-351/Leetcode-java-problems/tree/master/2396-strictly-palindromic-number) |
 ## Database
